@@ -1,2 +1,3 @@
-# chat_ia_flutter_layla
-Aplicación de chat con IA usando Flutter
+# Chat IA Flutter
+
+Proyecto de prueba en Flutter para compilar en Android y PC.
